@@ -1,10 +1,12 @@
 # Datos de Campañas de Campo / Field Campaign Data
 ---
 Este repositorio es el centro de acopio para todos los datos de reflectividades (en formato CSV) y datos LiDAR obtenidos durante nuestras campañas de campo. 
-Los datos provienen de las campañas de **IVIA**, **COPSEMAR** e **IRTA** realizadas en **2022**, **2023** y **2024**. 
+Los datos provienen de las campañas de IVIA, COPSEMAR e IRTA realizadas en 2022, 2023 y 2024.
+---
 
-This repository serves as the central hub for all reflectance data (in CSV format) and LiDAR data collected during our field campaigns.
-The data originates from the **IVIA**, **COPSEMAR**, and **IRTA** campaigns conducted in **2022**, **2023**, and **2024**. 
+This repository serves as the central hub for all reflectance data (in CSV format) and LiDAR data collected during our field campaigns. 
+The data originates from the IVIA, COPSEMAR, and IRTA campaigns conducted in 2022, 2023, and 2024.
+
 ---
 
 ## Estructura de Directorios / Directory Structure
