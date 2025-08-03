@@ -32,3 +32,10 @@ We've organized the data intuitively to facilitate its location and access. The 
         * `lidar/`: All **LiDAR** data is stored here. This may include various file formats (e.g., `.las`, `.laz`, etc.).
 
 ---
+PD: Archivos .gitkeep
+
+Es posible que observes archivos .gitkeep dentro de algunos de los directorios. Estos archivos temporales se utilizan para mantener la estructura de directorios en el repositorio de Git mientras los directorios aún no contienen los datos reales. Serán eliminados una vez que los datos correspondientes sean cargados.
+---
+PS: .gitkeep Files
+
+You may notice .gitkeep files within some directories. These temporary files are used to maintain the directory structure in the Git repository while the directories do not yet contain the actual data. They will be removed once the corresponding data is uploaded.
